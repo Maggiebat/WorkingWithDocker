@@ -2,3 +2,5 @@
 2. Explain how Docker containers are different from virtual machines. (10 points) 
 3. Discuss any challenges or difficulties you encountered during the assignment and how you overcame them. (10 points)
 
+1. 
+
