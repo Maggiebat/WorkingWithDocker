@@ -1,6 +1,7 @@
 1. Explain the importance of Docker in modern software development. (10 points) 
+- 
 2. Explain how Docker containers are different from virtual machines. (10 points) 
+- 
 3. Discuss any challenges or difficulties you encountered during the assignment and how you overcame them. (10 points)
-
-1. 
+- The challenge of using docker was setting up docker. There were a lot of different pieces to build up to using docker that it became overwhelming at times. There was also the fact that there was a lot of behind the scene issues such as my computer having an outdated version of python. Luckily for me, I participated in Data Fest over the weekend previous where I was forced to update my python (solving problem 1 of why nothing was installing) and it also taught me to use a virtual enviorment which made the process much quicker for me the second time. 
 
