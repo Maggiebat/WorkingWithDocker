@@ -1,7 +1,13 @@
 1. Explain the importance of Docker in modern software development. (10 points) 
-- 
+- Docker is important as a software dev tool and for virtualization technology. It's easy to develop, deploy, and manage apps using Docker containers.
+The containers also provide security. Docker provides a lot of ease in the software development world.
 2. Explain how Docker containers are different from virtual machines. (10 points) 
-- 
+- Docker containers can run multiple applications in a
+single OS kernal while a virtual machine are needed when the
+application or service is required to run on a different OS.
 3. Discuss any challenges or difficulties you encountered during the assignment and how you overcame them. (10 points)
-- The challenge of using docker was setting up docker. There were a lot of different pieces to build up to using docker that it became overwhelming at times. There was also the fact that there was a lot of behind the scene issues such as my computer having an outdated version of python. Luckily for me, I participated in Data Fest over the weekend previous where I was forced to update my python (solving problem 1 of why nothing was installing) and it also taught me to use a virtual enviorment which made the process much quicker for me the second time. 
+- The challenge of using docker was setting up docker. There were a lot of different pieces to build up to using docker that it became overwhelming at times
+There was also the fact that there was a lot of behind the scene issues such as my computer having an outdated version of python. Luckily for me, I
+participated in Data Fest over the weekend previous where I was forced to update my python (solving problem 1 of why nothing was installing) and it also
+taught me to use a virtual enviorment which made the process much quicker for me the second time. 
 
